@@ -1,0 +1,8 @@
+openai-agents
+openai
+httpx
+python-dotenv
+fastapi
+uvicorn[standard]
+pytest
+pytest-asyncio
